@@ -8,7 +8,7 @@ This is a simple supermarket checkout system implemented in Python. It calculate
 
    ```bash
    git clone https://github.com/babarakshay2019/supermarket_checkout.git
-   cd supermarket
+   cd supermarket_checkout
 
 2. Build and run the Docker image:
 
